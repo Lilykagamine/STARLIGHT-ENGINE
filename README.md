@@ -4,6 +4,7 @@ The STARLIGHT is a game engine that aims to fully autonomize many aspects of the
 The engine aims to create multiple components such as  
 API's  
 Text Editor  
-And the Game Engine
+Game Engine  
+Modeling
 
 All built in
